@@ -2,7 +2,7 @@ Planning on coding:
 - [x] A (1)
 - [x] C (3)
 - [x] D (4)
-- [ ] E (5)
+- [x] E (5)
 - [ ] F (6)
 - [ ] H (8)
 - [ ] J (10)
